@@ -13,6 +13,7 @@ print("Prix unitaire:",prix,"DT")
 print("Quantite en stock :",quantite)
 
 print("valeur totale du stock :" ,valeur ,"DT")
+print("valeur totale du stock :" ,valeur ,"DT")
 
 
 
